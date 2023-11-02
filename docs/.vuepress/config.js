@@ -1,5 +1,5 @@
 module.exports = {
-  base:"/doc/",
+  base:"/docs/",
   title: '深海小海豚',
   description: '深海小海豚的笔记',
   head:[
